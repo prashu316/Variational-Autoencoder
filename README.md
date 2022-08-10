@@ -17,3 +17,5 @@ A visualisation of the latent space after training:
 
 Newly generated digits from random latent space coordinates:
 ![generated digits](https://user-images.githubusercontent.com/57295909/183833601-cf88badc-18aa-4662-8b6a-c14be2c4f412.png)
+
+Notebook along with code can be found in this repository or you could click [here](https://github.com/prashu316/Variational-Autoencoder/blob/main/VAE.ipynb)
